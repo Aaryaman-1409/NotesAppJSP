@@ -9,7 +9,7 @@ public class ModelFactory {
     public static Model getModel() throws IOException {
         if (model == null) {
             model = new Model();
-            model.readFile(new File("./data/notes/notejson.txt"));
+            model.readFile(new File("./data/notes/notes.json"));
         }
 
         return model;

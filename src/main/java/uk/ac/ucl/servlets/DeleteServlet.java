@@ -44,7 +44,7 @@ public class DeleteServlet extends HttpServlet {
         model.setJSON(notes);
         String jsonstring = notes.toString();
 
-        File jsonfile = new File("./data/notes/notejson.txt");
+        File jsonfile = new File("./data/notes/notes.json");
         FileWriter fileWriter = new FileWriter(jsonfile, false);
         fileWriter.write(jsonstring);
         fileWriter.close();
