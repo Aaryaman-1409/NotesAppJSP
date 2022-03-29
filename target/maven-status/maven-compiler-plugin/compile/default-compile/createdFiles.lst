@@ -1,11 +1,12 @@
 uk/ac/ucl/servlets/SortServlet.class
 uk/ac/ucl/servlets/SearchServlet.class
+uk/ac/ucl/model/Model$JSONComparator$2.class
 uk/ac/ucl/servlets/DeleteServlet.class
+uk/ac/ucl/model/Model$JSONComparator$1.class
 uk/ac/ucl/main/Main.class
-uk/ac/ucl/helper/sortJSON.class
 uk/ac/ucl/servlets/ExpandedNoteServlet.class
 uk/ac/ucl/model/Model.class
 uk/ac/ucl/servlets/IndexServlet.class
 uk/ac/ucl/servlets/SaveServlet.class
+uk/ac/ucl/model/Model$JSONComparator.class
 uk/ac/ucl/model/ModelFactory.class
-uk/ac/ucl/helper/searchJSON.class
